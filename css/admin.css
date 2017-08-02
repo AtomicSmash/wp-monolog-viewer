@@ -1,0 +1,43 @@
+/*
+ * Log Level (severity)
+ */
+.monolog-text {
+    padding-left: 5px;
+}
+
+/*
+ * Log Date & Time Formatting
+ */
+.monolog-date {}
+.monolog-time {}
+.monolog-date-time-separator {
+    padding: 0 8px;
+}
+
+/*
+ * Change the column widths
+ */
+/* Column 1 */
+.wp-list-table .column-level {
+    width: 15%;
+}
+
+/* Column 2 */
+.wp-list-table .column-time {
+    width: 20%;
+}
+
+/* Column 3 */
+.wp-list-table .column-message {
+    width: 30%;
+}
+
+/* Column 4 */
+.wp-list-table .column-channel {
+    width: 15%;
+}
+
+/* Column 5 */
+.wp-list-table .column-app {
+    width: 20%;
+}

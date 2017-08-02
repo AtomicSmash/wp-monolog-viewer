@@ -1,0 +1,31 @@
+{
+    "name": "atomicsmash/wp-monolog-viewer",
+    "description": "WP Monolog Viewer",
+    "keywords": [
+        "monolog",
+        "wordpress",
+        "log",
+        "logging",
+        "viewer"
+    ],
+    "homepage": "http://www.atomicsmash.co.uk/",
+    "license": "",
+    "authors": [
+        {
+            "name": "Anthony Hartnell",
+            "email": "anthony@atomicsmash.co.uk",
+            "homepage": "https://www.atomicsmash.co.uk/"
+        },
+        {
+            "name": "David Darke",
+            "email": "david@atomicsmash.co.uk",
+            "homepage": "https://www.atomicsmash.co.uk/"
+        },
+        {
+            "name": "Atomic Smash",
+            "email": "mail@atomicsmash.co.uk",
+            "homepage": "https://www.atomicsmash.co.uk/"
+        }
+    ],
+    "type": "wordpress-plugin"
+}
